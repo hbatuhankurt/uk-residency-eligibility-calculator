@@ -22,7 +22,7 @@ A Python tool to calculate UK ILR (Indefinite Leave to Remain) and British citiz
 3. Edit the travel data in the script as needed.
 4. Run the script:
     ```
-    python main.py
+    python uk-residency-eligibility-calculator.py
     ```
 5. The Excel report (`UK_Residency_Eligibility_Calculation.xlsx`) will be generated in the project folder.
 
@@ -50,7 +50,7 @@ Seyahat geçmişinize göre Birleşik Krallık ILR (Süresiz Oturum) ve vatanda�
 3. Script içindeki seyahat verilerini kendinize göre düzenleyin.
 4. Script'i çalıştırın:
     ```
-    python main.py
+    python uk-residency-eligibility-calculator.py
     ```
 5. Excel raporu (`UK_Residency_Eligibility_Calculation.xlsx`) proje klasöründe oluşacaktır.
 
